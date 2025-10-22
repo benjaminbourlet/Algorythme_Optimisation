@@ -1,1 +1,1 @@
-# Algorythme_Optimisation
+# Livrable intermédiaire : bloc algorithmique et optimisation
